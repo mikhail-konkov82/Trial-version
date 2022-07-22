@@ -8,7 +8,7 @@
 
 ## Text Selection (выделение текста)
 
-Creating lists (Создаем сптски)
+Creating lists (Создаем списки)
 * Element 1
 * Element 2
 * Element 3
