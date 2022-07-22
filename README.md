@@ -1,4 +1,5 @@
 # Trial-version
-**Working with text (Работа с текстом)**
 
-# Creating a header (Сщздание заголовка)
+# Working with text(Создание заголовка)
+
+**Creating a header  (Работа с текстом)**
