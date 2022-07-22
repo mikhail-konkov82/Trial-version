@@ -18,3 +18,5 @@ Creating lists (Создаем списки)
 3. Element
 
 ~~Strikethrough text (Зачеркнутый текст)~~
+
+Link to the cheat sheet (ссылка на шпаргалку) https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c
