@@ -17,4 +17,4 @@ Creating lists (Создаем списки)
 2. Element
 3. Element
 
-~~Strikethrough text (Зачеркнутый текст)
+~~Strikethrough text (Зачеркнутый текст)~~
