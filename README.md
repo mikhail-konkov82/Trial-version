@@ -25,3 +25,4 @@ Link to the cheat sheet (ссылка на шпаргалку) https://gist.gith
 
 
 The flight is normal. We continue to study. (Полет нормальный. Продолжаем изучение).
+## How to simply add an image https://www.youtube.com/watch?v=vB_Z3JjkVwU
